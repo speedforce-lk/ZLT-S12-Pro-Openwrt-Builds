@@ -22,7 +22,7 @@ mtd -r write /tmp/<filename> /dev/mtd3 # replace <filename>
 
 5. I have converted LAN1 on this unit into WAN, so you can use it as a router.
 
-6. With this test build, it is based on vanilla OpenWrt. So apart from a very basic network setup of involving LAN and WAN, and disabled wireless interfaces, you will have to setup everything on your own. THIS IS NOT FOR THE FAINT OF HEART. You will need to put in your work, as I have put in mine into getting this unit supported under mainline OpenWrt. You will have to consult online documentation, or make your own researches, to do what it is you wish to do, you can start here: Documentation
+6. With this test build, it is based on vanilla OpenWrt. So apart from a very basic network setup of involving LAN and WAN, and disabled wireless interfaces, you will have to setup everything on your own. THIS IS NOT FOR THE FAINT OF HEART. You will need to put in your work, as I have put in mine into getting this unit supported under mainline OpenWrt. You will have to consult online documentation, or make your own researches, to do what it is you wish to do, you can start here: Documentation (https://openwrt.org/docs/start)
 
 7. I have mentioned before that with the migration from stock firmware to OpenWrt, open-source wireless drivers are now available. It brings in Wi-Fi Wave2, WPA3, 802.11r (band-steering), and Mesh Wi-Fi improvements, to name a few. Have fun learning and getting these technologies to work within your network setup. Say goodbye to unstable 2.4GHz wireless.
 
