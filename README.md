@@ -53,6 +53,7 @@ Baud rate is 115200.
 9. Flash the sysupgrade image at http://192.168.1.1/cgi-bin/luci/admin/system/flash
 
 Initramfs:https://github.com/speedforce-demo/ZLT-S12-Pro-Openwrt-Builds/raw/main/openwrt-ramips-mt7621-tozed_s12-unisoc-plus-initramfs-kernel.bin
+
 Sysupgrade:https://github.com/speedforce-demo/ZLT-S12-Pro-Openwrt-Builds/raw/main/openwrt-ramips-mt7621-tozed_s12-unisoc-plus-squashfs-sysupgrade.bin
 
 
