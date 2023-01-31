@@ -58,3 +58,6 @@ Sysupgrade:https://github.com/speedforce-demo/ZLT-S12-Pro-Openwrt-Builds/raw/mai
 
 
 This is not My work , Original Work : https://phcorner.net/threads/tozed-s12-plus-unisoc-openwrt-test-builds.1428085/
+
+
+<img src="https://github.com/speedforce-demo/ZLT-S12-Pro-Openwrt-Builds/blob/main/_20220720_201638.JPG?raw=true">
